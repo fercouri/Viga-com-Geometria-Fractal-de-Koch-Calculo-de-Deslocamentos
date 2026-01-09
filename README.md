@@ -1,4 +1,4 @@
-# Viga-com-Geometria-Fractal-de-Koch-Calculo-de-Deslocamentos-pelo-Metodo-das-Forcas
+# Viga com Geometria Fractal de Koch Cálculo de Deslocamentos pelo Método das Forças
 Trabalho 1 da disciplina de MAC023 - UFJF
 
 Objetivo Geral
